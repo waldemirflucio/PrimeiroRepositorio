@@ -1,0 +1,1 @@
+O comando git branch é usado no Git para gerenciar e visualizar os ramos (branches) de um repositório. As branches permitem que você trabalhe em diferentes versões do seu código em paralelo, facilitando o desenvolvimento colaborativo e experimental. 
